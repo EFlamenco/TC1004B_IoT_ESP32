@@ -7,6 +7,7 @@ En este Repositorio, está incluido todos los elementos utilzados para la resolu
 Si quieres conocer más sobre el desarrollo del reto visita la [wiki](https://github.com/EFlamenco/TC1004B_IoT_ESP32/wiki).
 
 Esta solución esta desarrollada en conjunto con:
+
 Emilio Flamenco Andrade A01732743
 
 Francisco Flamenco Andrade A01732742
